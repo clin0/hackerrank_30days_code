@@ -17,5 +17,5 @@ for i in list:
 #  Use range function to show a list of numbers.
 #  Use .format() method to display results
 
-# For time control purpose. 7 min complated the tast.
+# For time control purpose. 7'12 min complated the tast.
 """
